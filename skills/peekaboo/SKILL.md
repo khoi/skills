@@ -9,6 +9,16 @@ description: Use when working with the Peekaboo CLI or MCP server to capture mac
 
 Use Peekaboo to see the macOS UI, capture screenshots, and drive deterministic interactions through element IDs and snapshots.
 
+## Installation
+
+```
+bunx @steipete/peekaboo
+npx -y @steipete/peekaboo
+brew install steipete/tap/peekaboo
+```
+
+Priority is in that order.
+
 ## Workflow
 
 1. Verify permissions.
