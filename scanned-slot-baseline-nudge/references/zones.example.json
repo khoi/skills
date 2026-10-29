@@ -1,0 +1,18 @@
+{
+  "dpi": 288,
+  "note": "CHC STT600 page 1, displayed-page points, top-left origin, /Rotate 270 already applied. Each zone contains the full travel range of its target band and its printed guide. The two slots overlap in x, so a zone can also contain the neighbour's band; identify the target band by its position against the slot baseline and read that band's coveredPrintedPixels. Do not clip the zone to exclude the neighbour: a clipped zone undercounts coverage when the target line moves lower. Zones are form-specific; re-derive them for another form.",
+  "zones": {
+    "adviceFirst": {
+      "x0": 335,
+      "x1": 560,
+      "y0": 615,
+      "y1": 641
+    },
+    "adviceSecond": {
+      "x0": 75,
+      "x1": 560,
+      "y0": 636,
+      "y1": 660
+    }
+  }
+}
